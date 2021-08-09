@@ -1,3 +1,2 @@
-Layer 2 sudt script hash: 0x610e3b2b3792b3c7113624f747db81ea58539edaba0f12606dacb2c3d51fcedf
-↑ Using this script hash to get sudt account id ↑
-txHash: 0xe12ad6ec2b2e2fe38eff33d7f793991dcfed4c0f9a86886430e622d033972d15
+Your account id: 594
+Your sudt id: 678
